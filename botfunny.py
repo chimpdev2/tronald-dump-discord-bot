@@ -27,6 +27,8 @@ async def on_message(message):
             GitHub: https://github.com/chimpdev2/tronald-dump-discord-bot
             Made by wesh#0870 on discord, Dm me for any issues.
             Thanks for using!
+            (the creator wesh#0870 does not support Donald Trump in any right,
+            this bot should only be taken as a joke to make fun of Donald Trump)
             ''')
     
     if message.content.startswith('>quote'):

@@ -1,7 +1,5 @@
 # tronald-dump-discord-bot
 
-![tronalddump_850x850](https://user-images.githubusercontent.com/75502764/132151426-5c359f20-3769-4c01-b49d-b7ff5d70decf.png)
-
 Tronald Dump, A Discord Bot for some of Donald Trumps worst quotes.
 
 Run >quote to recive a quote from the bot.
@@ -17,3 +15,5 @@ Click watch in status to acsess the Github for the bot.
 Made by wesh#0870 on discord, Dm me for any issues.
 
 Thanks for using!
+
+Invite for bot: https://discord.com/oauth2/authorize?client_id=884244613924265994&permissions=101376&scope=bot

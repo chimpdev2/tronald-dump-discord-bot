@@ -14,7 +14,8 @@ Made by wesh#0870 on discord, Dm me for any issues.
 
 Thanks for using!
 
-(the creator wesh#0870 does not support Donald Trump in any right,
-this bot should only be taken as a joke to make fun of Donald Trump)
 
 Invite for bot: https://discord.com/oauth2/authorize?client_id=884244613924265994&permissions=101376&scope=bot
+
+(the creator wesh#0870 does not support Donald Trump in any right,
+this bot should only be taken as a joke to make fun of Donald Trump)

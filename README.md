@@ -10,8 +10,6 @@ The bot is written in python.
 
 More features will be added eventually in the future.
 
-Click watch in status to acsess the Github for the bot.
-
 Made by wesh#0870 on discord, Dm me for any issues.
 
 Thanks for using!
